@@ -1,0 +1,8 @@
+torch>=2.1
+transformers>=4.40
+datasets>=2.18
+safetensors>=0.4
+pandas>=2.0
+matplotlib>=3.7
+ipykernel>=6.29
+huggingface_hub>=0.23
