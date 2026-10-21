@@ -10,3 +10,4 @@ artifacts/distilbert-sst2-int8-per_tensor.pt
 artifacts/distilbert-sst2-int8-asymmetric-per_tensor.pt
 artifacts/distilbert-sst2-int8-per_group-g64.pt
 artifacts/hf-fp16/
+scripts/upload_fp16_to_hub.py
